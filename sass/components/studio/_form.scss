@@ -135,7 +135,7 @@
   .policy__checkbox:checked + & {
     background-color: $blue;
     border: 2px solid $blue;
-    background-image: url(../images/svg-icons/icon-check.svg);
+    background-image: url(../images/icon-check.svg);
     background-size: contain;
     background-origin: border-box;
   }
