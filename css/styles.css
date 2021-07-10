@@ -418,7 +418,7 @@ a {
 .policy__checkbox:checked + .policy__icon {
   background-color: var(--blue);
   border: 2px solid var(--blue);
-  background-image: url(../images/svg-icons/icon-check.svg);
+  background-image: url(../images/icon-check.svg);
   background-size: contain;
   background-origin: border-box;
 }

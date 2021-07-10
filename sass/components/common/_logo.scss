@@ -1,0 +1,19 @@
+.main-logo {
+  display: block;
+  font-family: $logo-font;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 0.03em;
+
+  @media screen and (min-width: 1200px) {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.173;
+  }
+}
+
+.main-logo__first-part {
+  color: $blue;
+}
