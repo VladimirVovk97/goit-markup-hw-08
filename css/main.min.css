@@ -1292,12 +1292,6 @@ img {
   margin-bottom: 20px;
   color: #fff;
 }
-.addresses {
-  margin-bottom: 60px;
-}
-.subscribe {
-  margin-bottom: 60px;
-}
 @media screen and (min-width: 768px) {
   .container--tablet {
     display: -webkit-box;
@@ -1472,4 +1466,5 @@ img {
 .footer-form__icon {
   margin-left: 10px;
 }
+
 /*# sourceMappingURL=main.min.css.map */
